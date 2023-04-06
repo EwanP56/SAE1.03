@@ -1,0 +1,42 @@
+Tache et répartition semaine 1 et 2 :
+
+	DUMERCHAT Kyrill :
+		Taches réalisées:
+			- HTML / CSS
+			- Récupérer les textes des fichiers
+			- Récupérer les stats
+			- ajout des paramètres dans la commande
+			- Récupérer les codes les mettre dans le nom des dossiers créés
+		Pourcentage de travail:
+			- 35%
+			
+			
+	PENVEN Ewan :
+		Taches réalisées:
+			- Récupérer les textes des fichiers
+			- Récupérer les 3 meilleurs vendeurs
+			- Récupérer tous les fichiers textes d'un dossier
+		Pourcentage de travail:
+			- 25%
+			
+	GUENEAU Melvin:
+		Taches réalisées:
+			- Récupérer tous les fichiers textes d'un dossier
+		Pourcentage de travail:
+			- 15%
+	
+	LE BOUEDEC Raphael:
+		Taches réalisées:
+			- Création du .config
+			- Récupérer les 3 meilleurs vendeurs
+			- Récupérer les textes des fichiers
+		Pourcentage de travail:
+			- 20%
+		
+			
+	BOURHIS Mathieu
+		Taches réalisées:
+			- Récapitulatif du sujet
+			- installation de Docker sur les pc perso
+		Pourcentage de travail:
+			- 5%
